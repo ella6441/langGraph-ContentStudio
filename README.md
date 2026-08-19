@@ -433,7 +433,6 @@ Contributions welcome! Areas for improvement:
 - Multi-language support
 - Transcript editor UI
 
-
 ## Author
 
 **Rivky Peretz**
