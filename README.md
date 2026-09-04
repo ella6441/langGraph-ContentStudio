@@ -435,5 +435,5 @@ Contributions welcome! Areas for improvement:
 
 ## Author
 
-**Rivky Peretz**
-[GitHub](https://github.com/rivky9523) · [Email](mailto:r0548551732@gmail.com)
+**Ella Bellity**
+[GitHub](https://github.com/ella6441) · [Email](mailto:r0548551732@gmail.com)
